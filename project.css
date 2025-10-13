@@ -103,6 +103,11 @@ color: #2563EB;
     width: 538px;
 }
 
+.project-card #img-3{
+    height: 322px;
+    width: 150px;
+}
+
 
 .project-card:hover {
     transform: translateY(-5px) scale(1.03);
